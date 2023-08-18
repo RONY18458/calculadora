@@ -54,5 +54,42 @@ public class project2 {
         int resta = numero3 - numero4;
             System.out.println("la resta de " + num3 + " - " + num4 + " es: " + resta);    
             
-        System.out.println();    
+        System.out.println();   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //MULTIPLICACION
+
+
+        System.out.println("--- MULTIPLICACION---");   
+ 
+            
+        System.out.print("INGRESE EL PRIMER NUMERO: ");
+
+        
+        int numero7 = scanner.nextInt();
+        
+        
+        System.out.print("INGRESE EL SEGUNDO NUMERO: ");
+        int numero8 = scanner.nextInt();
+        
+        int mult = numero7 * numero8;
+            System.out.println("la resta de " + numero7 + " / " + numero8 + " es: " + mult);
+            
+         System.out.println();
+  
+
+ 
         
