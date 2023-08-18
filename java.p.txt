@@ -35,3 +35,24 @@ public class project2 {
         
     }
 }
+
+
+
+        //RESTA
+
+
+        System.out.println("--- RESTA ---");    
+            
+        System.out.print("INGRESE EL PRIMER NUMERO: ");
+        
+        int num3 = scanner.nextInt();
+        
+        
+        System.out.print("INGRESE EL SEGUNDO NUMERO: ");
+        int num4 = scanner.nextInt();
+        
+        int resta = numero3 - numero4;
+            System.out.println("la resta de " + num3 + " - " + num4 + " es: " + resta);    
+            
+        System.out.println();    
+        
