@@ -89,6 +89,37 @@ public class project2 {
             System.out.println("la resta de " + numero7 + " / " + numero8 + " es: " + mult);
             
          System.out.println();
+
+
+
+
+
+
+
+
+
+
+
+   
+        //DIVISION
+
+        System.out.println("--- DIVICION---");    
+            
+        System.out.print("INGRESE EL PRIMER NUMERO: ");
+        
+        int numero5 = scanner.nextInt();
+        
+        
+        System.out.print("INGRESE EL SEGUNDO NUMERO: ");
+        int numero6 = scanner.nextInt();
+        
+        int division = numero5 / numero6;
+            System.out.println("la resta de " + numero5 + " / " + numero6 + " es: " + division);
+        
+            
+        System.out.println();     
+       
+
   
 
  
